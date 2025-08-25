@@ -152,7 +152,7 @@ int main()
         for(int j=0;j<c;j++)
             cin>>A[i][j];
 
-    // Transpose logic
+
     for(int i=0;i<r;i++)
     {
         for(int j=0;j<c;j++)
